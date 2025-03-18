@@ -1,9 +1,16 @@
 body{
-  background-color: #c5c5c5;
+  background-color: #e9e7f7;
 }
 div.barra{
-  background-color: #a7a7a7;
+  background-color: #d5d3f5;
   text-align: center;
   height: auto;
+  width: auto;
+}
+div.planoFundo{
+  background-image: url("./images/PlanoFundo.png");
+  background-size: cover;
+  background-position: center;
+  height: 450px;
   width: auto;
 }
