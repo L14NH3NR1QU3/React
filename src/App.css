@@ -1,8 +1,9 @@
 body{
-  background-color: #ccc;
+  background-color: #c5c5c5;
 }
 div.barra{
-  background-color: aqua;
-  height: 250px;
+  background-color: #a7a7a7;
+  text-align: center;
+  height: auto;
   width: auto;
 }
