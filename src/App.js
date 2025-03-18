@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div className="barra">
-        <h1 style="color = white">Lian Henrique</h1>  
+        <h1>Lian Henrique</h1>
       </div>
     </>
   );
