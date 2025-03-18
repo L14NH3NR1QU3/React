@@ -1,13 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div>
-      <div>
-        
+    <>
+      <div className="barra">
+        <h1 style="color = white">Lian Henrique</h1>  
       </div>
-    </div>
+    </>
   );
 }
 
