@@ -3,11 +3,9 @@ import './App.css';
 function App() {
   return (
     <>
-      <div className='base'>
-        <div className='planoFundo'></div>
-        <div className="barra">
-          <h1>Lian Henrique</h1>
-        </div>
+      <div className='planoFundo'></div>
+      <div className="barra">
+        <h1>Lian Henrique Amarante Fernandes Silva</h1>
       </div>
     </>
   );

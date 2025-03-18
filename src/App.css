@@ -1,24 +1,20 @@
 body{
-  background-color: #e9e7f7;
-}
-div.base{
-  background-color: #c3c1df;
-  height: 1000px;
-  width: 700px;
-  margin: 0 auto;
-}
-div.barra{
-  background-color: #afadd8;
-  text-align: center;
-  margin: 0 auto;
-  height: auto;
-  width: 655px;
-}
-div.planoFundo{
-  background-image: url("./images/PlanoFundo.png");
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 150px;
-  width: auto;
-}
+    background-color: #e9e7f7;
+  }
+  div.barra{
+    background-color: #dad6f1;
+    text-align: center;
+    margin: 0 auto;
+    height: auto;
+    width: auto;
+  }
+  div.planoFundo{
+    background-image: url("./Images/PlanoFundo.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    height: 300px;
+    width: 100%;
+    max-width: 100%;
+  }
