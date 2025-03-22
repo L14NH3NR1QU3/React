@@ -4,8 +4,11 @@ function App() {
   return (
     <>
       <div className='planoFundo'></div>
-      <div className="barra">
-        <h1>Lian Henrique Amarante Fernandes Silva</h1>
+      <div className='nome'>
+        <h1 className='nome'>Lian Henrique Amarante Fernandes Silva</h1>
+      </div>
+      <div className='texto'>
+        <h2>Sobre mim</h2>
       </div>
     </>
   );

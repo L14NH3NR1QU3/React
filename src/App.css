@@ -1,12 +1,20 @@
 body{
     background-color: #e9e7f7;
   }
-  div.barra{
-    background-color: #dad6f1;
-    text-align: center;
+  div.nome{
+    background-color: #d3cef1;
     margin: 0 auto;
     height: auto;
-    width: auto;
+    max-width: 670px;
+    border-radius: 50px;
+    text-align: center;
+  }
+  div.texto{
+    background-color: #d3cef1;
+    margin: 0 auto;
+    height: auto;
+    max-width: 670px;
+    border-radius: 50px;
   }
   div.planoFundo{
     background-image: url("./Images/PlanoFundo.png");
