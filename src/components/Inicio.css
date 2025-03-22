@@ -16,8 +16,8 @@ body{
     max-width: 670px;
     border-radius: 50px;
   }
-  div.planoFundo{
-    background-image: url("./Images/PlanoFundo.png");
+  div.foto{
+    background-image: url("../Images/PlanoFundo.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

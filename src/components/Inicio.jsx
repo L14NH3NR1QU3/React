@@ -1,9 +1,9 @@
-import React from 'react'
+import "./Inicio.css";
 
 const Inicio = () => {
   return (
     <div>
-        <div className='planoFundo'></div>
+        <div className='foto'></div>
         <div className='nome'>
             <h1 className='nome'>Lian Henrique Amarante Fernandes Silva</h1>
         </div>
