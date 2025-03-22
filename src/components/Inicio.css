@@ -1,0 +1,28 @@
+body{
+    background-color: #e9e7f7;
+  }
+  div.nome{
+    background-color: #d3cef1;
+    margin: 0 auto;
+    height: auto;
+    max-width: 670px;
+    border-radius: 50px;
+    text-align: center;
+  }
+  div.texto{
+    background-color: #d3cef1;
+    margin: 0 auto;
+    height: auto;
+    max-width: 670px;
+    border-radius: 50px;
+  }
+  div.planoFundo{
+    background-image: url("./Images/PlanoFundo.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    height: 300px;
+    width: 100%;
+    max-width: 100%;
+  }
